@@ -17,6 +17,4 @@ Faça o download do arquivo csv: https://www.kaggle.com/datasets/alexandrucaian/
 Passe esse arquivo para o colab<br>
 Rode a célula com<br>
 
-import pandas as pd
-from google.colab import files
-uploaded = files.upload()
+import pandas as pd<br>from google.colab import files<br>uploaded = files.upload()
